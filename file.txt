@@ -1,5 +1,2 @@
 hi this is git practice
-hello
-second commit
-
 
